@@ -1,0 +1,45 @@
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.AssemblyReference.cache
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.AssemblyInfoInputs.cache
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.AssemblyInfo.cs
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.exe
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.deps.json
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.runtimeconfig.json
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.pdb
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.BLL.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.Core.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.DAL.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.BLL.pdb
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.Core.pdb
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.DAL.pdb
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.CopyComplete
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\refint\WeatherAlmanac.UI.dll
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.pdb
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.genruntimeconfig.cache
+C:\Users\Tyler\Code\WeatherAlmanacEx\WeatherAlmanacEx\obj\Debug\net6.0\ref\WeatherAlmanac.UI.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.exe
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.deps.json
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.runtimeconfig.json
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.UI.pdb
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.BLL.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.Core.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.DAL.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.BLL.pdb
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.Core.pdb
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\bin\Debug\net6.0\WeatherAlmanac.DAL.pdb
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.AssemblyReference.cache
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.AssemblyInfoInputs.cache
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.AssemblyInfo.cs
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.CoreCompileInputs.cache
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.csproj.CopyComplete
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\refint\WeatherAlmanac.UI.dll
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.pdb
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\WeatherAlmanac.UI.genruntimeconfig.cache
+C:\Users\Miles Townsend\Desktop\Code\Labs\WeatherAlmanac\WeatherAlmanacEx\obj\Debug\net6.0\ref\WeatherAlmanac.UI.dll

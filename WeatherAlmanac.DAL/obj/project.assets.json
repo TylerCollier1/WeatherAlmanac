@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "WeatherAlmanac.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WeatherAlmanac.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherAlmanac.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherAlmanac.Core/1.0.0": {
+      "type": "project",
+      "path": "../WeatherAlmanac.Core/WeatherAlmanac.Core.csproj",
+      "msbuildProject": "../WeatherAlmanac.Core/WeatherAlmanac.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "WeatherAlmanac.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Miles Townsend\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
+      "projectName": "WeatherAlmanac.DAL",
+      "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
+      "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+              "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

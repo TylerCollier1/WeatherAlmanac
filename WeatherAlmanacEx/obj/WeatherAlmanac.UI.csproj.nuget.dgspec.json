@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj": {}
+    "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
+    "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj",
         "projectName": "WeatherAlmanac.BLL",
-        "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\obj\\",
+        "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj",
+        "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
+              "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+                "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
               },
-              "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj"
+              "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj": {
+                "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj"
               }
             }
           }
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+    "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
         "projectName": "WeatherAlmanac.Core",
-        "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\obj\\",
+        "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
+        "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,21 +115,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj": {
+    "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
         "projectName": "WeatherAlmanac.DAL",
-        "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\WeatherAlmanac.DAL.csproj",
+        "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,8 +143,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
+              "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+                "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
               }
             }
           }
@@ -173,21 +173,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj": {
+    "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
         "projectName": "WeatherAlmanac.UI",
-        "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\obj\\",
+        "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
+        "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,11 +201,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj"
+              "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
+                "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj"
               },
-              "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
-                "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
+              "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+                "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
               }
             }
           }
@@ -219,6 +219,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -234,7 +240,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

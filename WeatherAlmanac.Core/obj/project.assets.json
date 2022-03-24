@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tyler\\.nuget\\packages\\": {}
+    "C:\\Users\\Miles Townsend\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
       "projectName": "WeatherAlmanac.Core",
-      "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
-      "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\obj\\",
+      "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj",
+      "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

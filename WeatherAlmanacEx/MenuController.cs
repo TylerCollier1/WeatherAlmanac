@@ -94,7 +94,18 @@ namespace WeatherAlmanac.UI
         }
         public void ViewRecordsByDateRange()
         {
-            _ui.Display("View Records by Date Range");
+            DateTime startDate = _ui.GetDateTime("Enter Start Date:");
+            DateTime endDate = _ui.GetDateTime("Enter end date:");
+           Result <List<DateRecord>> result = Service.LoadRange (startDate, endDate);
+            if (!result.Success)
+            {
+                Console.WriteLine(result.Message);
+                return;
+            }
+            foreach(DateRecord dr in result.Data)
+            {
+                Console.WriteLine (dr);
+            }
         }
         public void AddRecord()
         {         

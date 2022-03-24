@@ -10,6 +10,10 @@ namespace WeatherAlmanac.Core.DTO
         public decimal Humidity { get; set; }
         public string Description { get; set; }
 
+        public override string ToString()
+        {
+            return $"Date:{Date}\nHigh Temp:{HighTemp}\nLow Temp:{LowTemp}\nHumidity:{Humidity}\nDescription:{Description}";
+        }
         public override bool Equals(object? obj)
         {
             return obj is DateRecord record &&

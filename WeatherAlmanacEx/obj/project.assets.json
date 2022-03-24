@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "WeatherAlmanac.BLL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -42,6 +51,33 @@
     }
   },
   "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "WeatherAlmanac.BLL/1.0.0": {
       "type": "project",
       "path": "../WeatherAlmanac.BLL/WeatherAlmanac.BLL.csproj",
@@ -60,24 +96,25 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Newtonsoft.Json >= 13.0.1",
       "WeatherAlmanac.BLL >= 1.0.0",
       "WeatherAlmanac.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tyler\\.nuget\\packages\\": {}
+    "C:\\Users\\Miles Townsend\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
       "projectName": "WeatherAlmanac.UI",
-      "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
-      "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanacEx\\obj\\",
+      "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\WeatherAlmanac.UI.csproj",
+      "packagesPath": "C:\\Users\\Miles Townsend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanacEx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miles Townsend\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -91,11 +128,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
-              "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj"
+            "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj": {
+              "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.BLL\\WeatherAlmanac.BLL.csproj"
             },
-            "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
-              "projectPath": "C:\\Users\\Tyler\\Code\\WeatherAlmanacEx\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
+            "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj": {
+              "projectPath": "C:\\Users\\Miles Townsend\\Desktop\\Code\\Labs\\WeatherAlmanac\\WeatherAlmanac.Core\\WeatherAlmanac.Core.csproj"
             }
           }
         }
@@ -109,6 +146,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -124,7 +167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

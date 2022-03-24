@@ -16,12 +16,58 @@ namespace WeatherAlmanac.BLL
 
         public Result<List<DateRecord>> LoadRange(DateTime start, DateTime end)
         {
-            throw new NotImplementedException();
+            Result<List<DateRecord>> result = new Result<List<DateRecord>>();
+
+            if (DateTime.Compare(start, end) > 0)
+            {
+                result.Success = false;
+                result.Message = "Start date is later than end date.";
+                return result;
+            }   
+            result.Data = new List<DateRecord>();
+            List<DateRecord> data = _repo.GetAll().Data;
+            foreach (DateRecord record in data) 
+            {
+                if (record.Date > start && record.Date < end)
+                {
+                    result.Data.Add(record);
+                }
+
+            }
+            if(result.Data.Count == 0)
+            {
+                result.Success = false;
+                result.Message = "out of range";
+
+            }
+            else
+            {
+                result.Success = true;
+            }
+            return result;
         }
 
         public Result<DateRecord> Get(DateTime date)
         {
-            throw new NotImplementedException();
+            Result<DateRecord> result = new Result<DateRecord>();
+
+            
+            result.Data = new DateRecord();
+            List<DateRecord> data = _repo.GetAll().Data;
+           bool exists = false;
+            foreach (DateRecord record in data)
+            {
+                if (record.Date == date)
+                {
+                    result.Data = record;
+                    exists = true;
+                    break;
+                }
+
+            }
+            if (exists) { result.Success = true; }
+            else { result.Success = false; }
+            return result;
         }
 
         public Result<DateRecord> Add(DateRecord record)
@@ -36,12 +82,16 @@ namespace WeatherAlmanac.BLL
 
         public Result<DateRecord> Remove(DateTime date)
         {
-            throw new NotImplementedException();
+            Result<DateRecord> result = _repo.Remove(date);
+          
+            return result;
         }
 
         public Result<DateRecord> Edit(DateRecord record)
         {
-            throw new NotImplementedException();
+            Result<DateRecord> result = _repo.Edit(record);
+
+            return result;
         }
     }
 }

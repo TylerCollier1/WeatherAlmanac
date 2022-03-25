@@ -90,7 +90,16 @@ namespace WeatherAlmanac.UI
         }
         public void LoadRecord()
         {
-            _ui.Display("Load Record");
+            DateTime userInput = _ui.GetDateTime("Enter a valid date: ");
+
+
+            Result<DateRecord> result = Service.Get(userInput);
+            if (!result.Success)
+            {
+                Console.WriteLine(result.Message);
+                return;
+            }
+            Console.WriteLine(result.Data);
         }
         public void ViewRecordsByDateRange()
         {
@@ -121,11 +130,28 @@ namespace WeatherAlmanac.UI
         }
         public void EditRecord()
         {
-            _ui.Display("Edit Record");
+            DateRecord _dateRecord = new DateRecord();
+            _dateRecord.Date = _ui.GetDateTime("Enter a valid date: ");
+            _dateRecord.HighTemp = _ui.GetDecimal("Enter a HighTemp: ");
+            _dateRecord.LowTemp = _ui.GetDecimal("Enter a LowTemp: ");
+            _dateRecord.Humidity = _ui.GetDecimal("Enter a Humidity: ");
+            Console.WriteLine("Enter a Description: ");
+            _dateRecord.Description = Console.ReadLine();
+
+            Result<DateRecord> result= Service.Edit(_dateRecord);
+          
+            Console.WriteLine(result.Message);
+            
         }
         public void DeleteRecord()
         {
-            _ui.Display("Delete Record");
+            
+            DateTime userInput = _ui.GetDateTime("Enter a valid date: ");
+            
+
+            Result<DateRecord> result = Service.Remove(userInput);
+
+            Console.WriteLine(result.Message);
         }
     }
 }
